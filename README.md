@@ -4,9 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heylelegeovu/)
  <a href = "mailto:leticiageovu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ## 📊 Minhas estatísticas no GitHub
-![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiageovu&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiageovu&layout=compact&theme=radical)
+![Leticia GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiageovu&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiageovu&layout=compact&theme=radical)
 
 ## 🚀 Projetos em destaque
 - [🔐 Tela de Login](https://github.com/Leticiageovu/Tela-de-login) – Projeto de autenticação com HTML e CSS 
