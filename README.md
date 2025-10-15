@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiageovu&layout=compact&theme=radical)
 
 ## 🚀 Projetos em destaque
-- [🔐 Tela de Login](https://github.com/Leticiageovu/Tela-de-login) – Projeto de autenticação com HTML e CSS 
+- [🔐 🌦️ Clima Tempo](https://github.com/Leticiageovu/Flask-OpenWeather) – Python com Flask, que consome a API do OpenWeather para exibir o clima em tempo real .
 - [💻 Projeto de site para cafeteria](https://github.com/Leticiageovu/monte-seu-caf--da-manh-) – Projeto simples, trabalhado com imagens, CTA , HTML, CSS e  JS.  
 - [🚗 Tela de aplicativo de venda de câmbio de carro](https://github.com/Leticiageovu/Project-React-Vite-) – Projeto voltado ao mobile, React e Vite.
 
