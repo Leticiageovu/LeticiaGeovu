@@ -10,7 +10,7 @@
 ## 🚀 Projetos em destaque
 - [🌦️ Clima Tempo](https://github.com/Leticiageovu/Flask-OpenWeather) – Python com Flask, que consome a API do OpenWeather para exibir o clima em tempo real .
 - [💻 Projeto de site para cafeteria](https://github.com/Leticiageovu/monte-seu-caf--da-manh-) – Projeto simples, trabalhado com imagens, CTA , HTML, CSS e  JS.  
-- [🚗 Tela de aplicativo de venda de câmbio de carro](https://github.com/Leticiageovu/Project-React-Vite-) – Projeto voltado ao mobile, React e Vite.
+- [💻 Desenvolvimento Front-end para Web](https://github.com/Leticiageovu/Desenvolvimento-Front-end-para-Web) –  Site de ONG feita em HTML, CSS, Funcionalidades com JavaScript, Acessibilidade e Deploy.  
 
 ## Tecnologias que eu uso nos meus projetos e estudos
 
