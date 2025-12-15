@@ -28,9 +28,9 @@
 💻 Apaixonada por códigos, decidi ir atrás dos meus sonhos e entrei de cabeça no universo das Tecnologias .
 
 ## ✨ Sobre mim
-- 🚀 Estudante de **Análise e Desenvolvimento de Sistemas**  
-- 💡 Apaixonada por resolver problemas com código  
-- 🎨 Gosto de unir tecnologia e criatividade  
-- 📚 Atualmente aprendendo: ** API e E-commerce **  
-- 🎯 Objetivo: me tornar desenvolvedora Fullstack
+- 🚀 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 💡 Desenvolvedora **Full Stack**, apaixonada por resolver problemas através do código
+- 🎨 Interesse em criar aplicações que unem tecnologia, funcionalidade e boa experiência do usuário
+- 📚 Atualmente aprofundando conhecimentos em **APIs** e **E-commerce**
+- 🎯 Focada em desenvolvimento web completo, do front-end ao back-end
 
