@@ -5,7 +5,7 @@
  <a href = "mailto:leticiageovu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## 📊 Minhas estatísticas no GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiageovu&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiageovu&layout=compact&langs_count=12&theme=radical)
 
 ## 🚀 Projetos em destaque
 - [🌦️ Clima Tempo](https://github.com/Leticiageovu/Flask-OpenWeather) – Python com Flask, que consome a API do OpenWeather para exibir o clima em tempo real .
