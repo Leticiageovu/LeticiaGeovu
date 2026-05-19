@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack;React+•+TypeScript+•+Node.js;Java+•+C%23/.NET;Sempre+aprendendo+novas+tecnologias" />
+</p>
 # 👋 Olá! Eu sou a Letícia Geovú
 
 <p align="left">
