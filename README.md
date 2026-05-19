@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=BB86FC&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Full+Stack;React+•+TypeScript+•+Node.js;Java+•+C%23/.NET;Sempre+aprendendo+novas+tecnologias" />
 </p>
+
 # 👋 Olá! Eu sou a Letícia Geovú
 
 <p align="left">
@@ -21,6 +22,27 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Leticiageovu&theme=tokyonight"/>
+
+</div>
+<br>
+  
+<div align="center">
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Leticiageovu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leticiageovu&layout=compact&langs_count=20&theme=tokyonight" height="180em"/>
+
+</div>
+
+
 
 ---
 
@@ -74,7 +96,7 @@
 
 ---
 
-# 📌 Projetos em destaque
+# 🚀 Projetos em destaque
 
 - [💰 Sistema de Controle de Gastos Residenciais](https://github.com/Leticiageovu/Sistema-de-Controle-de-Gastos-Residenciais) — Sistema Full Stack desenvolvido com React, TypeScript e C#/.NET para gerenciamento financeiro e controle de transações com regras de negócio.
 
@@ -82,35 +104,21 @@
 
 - [🎵 Spotify Inspired App](https://github.com/Leticiageovu/spotify-react) — Aplicação Front-End inspirada na experiência do Spotify, desenvolvida em React com foco em responsividade, componentização e experiência do usuário.
 
----
 
-# 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com?user=leticiageovu&theme=tokyonight"/>
-
-<br><br>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiageovu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiageovu&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
 
 ---
 
 # ✨ Sobre mim
 
-💻 Desenvolvedora Full Stack apaixonada por tecnologia e construção de soluções digitais modernas.
+💻 Desenvolvedora Full Stack apaixonada por criar aplicações modernas e escaláveis.
 
-🚀 Experiência no desenvolvimento de aplicações web completas, integrando Front-end, Back-end e banco de dados.
+🚀 Experiência com Front-end, Back-end, APIs REST e banco de dados.
 
-📚 Atualmente aprofundando conhecimentos em arquitetura de software, autenticação JWT, APIs REST e boas práticas de desenvolvimento.
+📚 Aprofundando conhecimentos em arquitetura de software, JWT e boas práticas de desenvolvimento.
 
-🎯 Focada em criar sistemas organizados, intuitivos e escaláveis, sempre buscando unir performance, design e experiência do usuário.
+🎯 Foco em performance, experiência do usuário e construção de sistemas organizados.
 
-🧠 Em constante evolução técnica, aprendendo novas ferramentas e aprimorando habilidades para atuar em projetos cada vez mais robustos.
+🧠 Sempre evoluindo tecnicamente e explorando novas tecnologias.
 
 ---
 
@@ -122,4 +130,4 @@
 
 ## 🐍 Contribuições
 
-![Snake animation](https://github.com/leticiageovu/leticiageovu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leticiageovu/Leticiageovu/blob/output/github-contribution-grid-snake.svg)
