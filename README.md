@@ -117,3 +117,9 @@
 <p align="center">
   Obrigada pela visita 💜
 </p>
+
+---
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/leticiageovu/leticiageovu/blob/output/github-contribution-grid-snake.svg)
