@@ -1,36 +1,116 @@
-## Olá! Eu sou a Letícia Geovú 👋
+# 👋 Olá! Eu sou a Letícia Geovú
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leticia-geov%C3%BA-1a8386197/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/heylelegeovu/)
- <a href = "mailto:leticiageovu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p align="left">
+  Desenvolvedora Full Stack focada na criação de aplicações modernas, interfaces intuitivas e sistemas escaláveis.<br>
+  Atualmente aprofundando conhecimentos em arquitetura de software, APIs REST e desenvolvimento web completo.
+</p>
 
-## 📊 Minhas estatísticas no GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiageovu&layout=compact&langs_count=12&theme=radical)
+<p align="left">
+  <a href="https://www.linkedin.com/in/leticia-geov%C3%BA-1a8386197/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-## 🚀 Projetos em destaque
-- [🌦️ Clima Tempo](https://github.com/Leticiageovu/Flask-OpenWeather) – Python com Flask, que consome a API do OpenWeather para exibir o clima em tempo real .
-- [💻 Projeto de site para cafeteria](https://github.com/Leticiageovu/monte-seu-caf--da-manh-) – Projeto simples, trabalhado com imagens, CTA , HTML, CSS e  JS.  
-- [💻 Desenvolvimento Front-end para Web](https://github.com/Leticiageovu/Desenvolvimento-Front-end-para-Web) –  Site de ONG feita em HTML, CSS, Funcionalidades com JavaScript, Acessibilidade e Deploy.  
+  <a href="https://www.instagram.com/heylelegeovu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
-## Tecnologias que eu uso nos meus projetos e estudos
+  <a href="mailto:leticiageovu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="Python"  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img align="center" alt="PHP"  src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-</div><br/>
+---
 
-💻 Apaixonada por códigos, decidi ir atrás dos meus sonhos e entrei de cabeça no universo das Tecnologias .
+# 🚀 Tecnologias
 
-## ✨ Sobre mim
-- 🚀 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 💡 Desenvolvedora **Full Stack**, apaixonada por resolver problemas através do código
-- 🎨 Interesse em criar aplicações que unem tecnologia, funcionalidade e boa experiência do usuário
-- 📚 Atualmente aprofundando conhecimentos em **APIs** e **E-commerce**
-- 🎯 Focada em desenvolvimento web completo, do front-end ao back-end
+## 🎨 Front-end
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
+## ⚙️ Back-end
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+## 🗄️ Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+</p>
+
+## 🧰 Ferramentas & Conceitos
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blip-6E48FF?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/APIs_REST-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UX/UI-FF4088?style=for-the-badge"/>
+</p>
+
+---
+
+# 📌 Projetos em destaque
+
+- [💰 Sistema de Controle de Gastos Residenciais](https://github.com/Leticiageovu/Sistema-de-Controle-de-Gastos-Residenciais) — Sistema Full Stack desenvolvido com React, TypeScript e C#/.NET para gerenciamento financeiro e controle de transações com regras de negócio.
+
+- [🏋️ TrackForm](https://github.com/Leticiageovu/TrackForm) — Sistema desenvolvido em Java com JWT para acompanhamento de evolução física, métricas corporais e organização de treinos.
+
+- [🎵 Spotify Inspired App](https://github.com/Leticiageovu/spotify-react) — Aplicação Front-End inspirada na experiência do Spotify, desenvolvida em React com foco em responsividade, componentização e experiência do usuário.
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://streak-stats.demolab.com?user=leticiageovu&theme=tokyonight"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiageovu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiageovu&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ✨ Sobre mim
+
+💻 Desenvolvedora Full Stack apaixonada por tecnologia e construção de soluções digitais modernas.
+
+🚀 Experiência no desenvolvimento de aplicações web completas, integrando Front-end, Back-end e banco de dados.
+
+📚 Atualmente aprofundando conhecimentos em arquitetura de software, autenticação JWT, APIs REST e boas práticas de desenvolvimento.
+
+🎯 Focada em criar sistemas organizados, intuitivos e escaláveis, sempre buscando unir performance, design e experiência do usuário.
+
+🧠 Em constante evolução técnica, aprendendo novas ferramentas e aprimorando habilidades para atuar em projetos cada vez mais robustos.
+
+---
+
+<p align="center">
+  Obrigada pela visita 💜
+</p>
